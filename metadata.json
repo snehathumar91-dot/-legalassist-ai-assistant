@@ -1,0 +1,6 @@
+{
+  "name": "LegalAssist AI - Legal Document Simplifier & Contract Analyzer",
+  "description": "An AI legal assistant to simplify complex legal documents, compare contracts with diff detection, and clarify tricky clauses with plain-language risk breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
